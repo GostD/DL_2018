@@ -2,4 +2,5 @@
 README.txt
 setup.py
 resnext/ResNext.py
+resnext/Training.py
 resnext/__init__.py
